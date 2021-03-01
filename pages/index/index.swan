@@ -1,0 +1,7 @@
+<!-- index.swan -->
+<view class="container">
+    mp-html 文本
+    <mp-html content="{{content}}"/>
+    rich-text 文本
+    <rich-text nodes="{{content}}"/>
+</view>

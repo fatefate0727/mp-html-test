@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "智能小程序示例",
+    "usingComponents":{
+        "mp-html": "/components/mp-html/index"
+    }
+}
